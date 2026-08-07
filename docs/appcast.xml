@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ClipSmith</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 07 Aug 2026 10:52:34 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://bigbencoder.github.io/clipsmith-releases/downloads/ClipSmith-0.1.0.zip" length="1507851" type="application/octet-stream" sparkle:edSignature="6zAfXMYyJpxikTq9sE7yyUUzwaLUxpIJaB5D92cpi9sL7gG/D/Ll9yIV+HoGd1qvjOW9V+QhJG2UP7GMQttnBQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: cHYics5ovF0KEigLz/0k20WUHNn2BLlLjVcxbTlWrRPl7/nWMTvg6BR/QL/+XN261xufDtKuPFXkjwpbqx1mBg==
+length: 1040
+-->
