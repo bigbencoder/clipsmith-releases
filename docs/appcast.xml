@@ -4,6 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>ClipSmith</title>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Tue, 11 Aug 2026 07:12:28 -0400</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://bigbencoder.github.io/clipsmith-releases/downloads/ClipSmith-0.1.5.zip" length="1542311" type="application/octet-stream" sparkle:edSignature="4897khy66L2pXCm6izEkV1MT6iVDOzxQfv5KC6TnW/Cp0g3vdcE6DzfePNtj/GDQScglPf6+XuNNTRU4EmhpBg=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://bigbencoder.github.io/clipsmith-releases/downloads/ClipSmith9-1.delta" sparkle:deltaFrom="1" length="145010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vvMjFvLUSa6wtXT7iEKvF+/zG0ONgQK9oBtYLeYmLrO4e8TBl6+bSEyNZkecQnAX6/WXr1etcaKdwyjmQQKfAQ=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Fri, 07 Aug 2026 10:52:34 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
@@ -13,6 +24,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: cHYics5ovF0KEigLz/0k20WUHNn2BLlLjVcxbTlWrRPl7/nWMTvg6BR/QL/+XN261xufDtKuPFXkjwpbqx1mBg==
-length: 1040
+edSignature: g/OUYb52flqK4fhQ1Oz0GXSwSQ1Eyb6ncTW3EGwP2fg0u95ffGQTSlpIAym1oRKXAAXNRQA/VjIkKFiRfkMpBA==
+length: 2117
 -->
