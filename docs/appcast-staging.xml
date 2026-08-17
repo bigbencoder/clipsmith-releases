@@ -4,6 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>ClipSmith</title>
         <item>
+            <title>0.1.10</title>
+            <pubDate>Sun, 16 Aug 2026 22:20:13 -0400</pubDate>
+            <sparkle:channel>staging</sparkle:channel>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith-0.1.10.zip" length="1584506" type="application/octet-stream" sparkle:edSignature="GFkfl+xfItdRbWhC2tJIDrdmaxf19CM//JPn0lNJoFGzooltLmPM7MAaH3bmO8iPe902QNo3iE4s6xpwUUB9AA=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith14-13.delta" sparkle:deltaFrom="13" length="86266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="p1cu+fdf/nOplNFuLBU9ZaaHYAa5HSsSVITRqvujGgQtjcFCritifpWftF7NaEGB/Kf5pg4CrQRTwoSchN7iAA=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith14-12.delta" sparkle:deltaFrom="12" length="90218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="R3WzGaUWmVZXsKU9ELQUMlaxu3pM23X5jRn42r8TY1rYf9mlS+O6lNyMWPXC7ERBEKYcv7IDHbytGRQHzCGXBQ=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith14-11.delta" sparkle:deltaFrom="11" length="105594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7yJirYUzzqSVDfRb7OYM+jDN92I1w2r6UuVk3I0zV8+Z4Yfw/IFohVN2HPrPs0ulj3s8GhKuiqOvfFK8/pofAQ=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith14-10.delta" sparkle:deltaFrom="10" length="146058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eU1qVGazbEKJ1gciZB7igM7VxJVN9nCQAzCgJDqNG63AdNT9F1SpW+C+Lc/wGWX2US528ahKJhIMVQm/pe/iAQ=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith14-9.delta" sparkle:deltaFrom="9" length="147206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2U1Euqej0ZYaM+JdJq8S3nCjCRnMRfq2q+og3nC2WFjgAtpHdxFb17zlsxTK09vpfnpBFy/SI+wJPfuoDBSuDQ=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.9</title>
             <pubDate>Sun, 16 Aug 2026 22:14:20 -0400</pubDate>
             <sparkle:channel>staging</sparkle:channel>
@@ -11,13 +27,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith-0.1.9.zip" length="1579695" type="application/octet-stream" sparkle:edSignature="7wUXpYVPFAXzFaWVjcTUayV0Ye18vO2bPax85NqG0X7H1ROtanU8WzL1obo4AE7D9vrO6JE7xX3bWqOpBfKgCQ=="></enclosure>
-            <sparkle:deltas>
-                <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith13-12.delta" sparkle:deltaFrom="12" length="73482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oDMpokbsq5t+cAa0rcXjVGAlgmlU86lXcbI6QWG1vmVt56gQVS9S1vhywUCt8jI6vhO2d9WsMTQY6RqeChetBQ=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith13-11.delta" sparkle:deltaFrom="11" length="101294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ki25KTOS/8xjKDxyYyHNnKFSvQ/G/S0CKNrNw/43esrw0ci2fd9OZTFCrbcc+n3VEICvQYmojMC3NJkWVPReAw=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith13-10.delta" sparkle:deltaFrom="10" length="142466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="b8XWKZqg8/jpI1fTYstK54R+OkWXX4jD8BichFAqBt0b1mZCrbTpDR7UgCWxEmRVd7+Pk0FQ8El9WrQYDTFNAQ=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith13-9.delta" sparkle:deltaFrom="9" length="143862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bC8Mrb5Nk4j9/iRw7t6fOAv/p5m0TQkMuFvo0TYhcpJadaERr/5w/D4gL2jhDjT9EvyT+N9BJl22a1yqTazlCA=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith13-8.delta" sparkle:deltaFrom="8" length="143954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xdo82dpLmPPFzAva+ksXu4Q9B+PS4GRN2HG/WWaVd7mmqTzn39sGKCIBVdTH9YYXoX020ecXTuMhX78zIkmLCg=="></enclosure>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.1.8</title>
@@ -28,17 +37,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith-0.1.8.zip" length="1575227" type="application/octet-stream" sparkle:edSignature="u2DIzfgVcclzOWo1Vn1uXTwY5hOxZGb1IjKLG7D4ucnCBbEIfNqhMEs/c+DpOkuBOQXE9UVM8fVKA85KDd5PAA=="></enclosure>
         </item>
-        <item>
-            <title>0.1.7</title>
-            <pubDate>Sun, 16 Aug 2026 21:06:54 -0400</pubDate>
-            <sparkle:channel>staging</sparkle:channel>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://bigbencoder.github.io/clipsmith-releases/staging/ClipSmith-0.1.7.zip" length="1577588" type="application/octet-stream" sparkle:edSignature="2ETt1IAKa3aXdVL3LCgtKzzs+9OpkkyLbTiod5EFrQFXEcifHNMpjN7OtecTsAF+HwkFTCzQuQ1pWF31ZmAtBA=="></enclosure>
-        </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: dHxWHkekkNmqORg+ALX1qZ/ABUdFpur1oJoJTts9abdw8rQRI3UHV0BMJSqWt6LQUSbJVYb5PYxDUtZoLGfRCg==
-length: 4521
+edSignature: R8nt6zazFtaP1V8Oo3IjDQQZofh9vUWokenwvERIzB0QaUmfA7nnP1KtPDkCMRqgbyj0Ix28gRGYbpCcuKLHAw==
+length: 4525
 -->
